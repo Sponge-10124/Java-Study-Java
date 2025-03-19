@@ -2,6 +2,7 @@
 2025年下半学期Java学习
 我是学习Java的苦逼大学生！
 ### 我的设备：
+| ---- | ---- |
 | Laptop | Lenovo Thinkbook 14+ IMH |
 | CPU | Intel Core Ultra5 125H |
 | RAM | 32GB |
