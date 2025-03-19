@@ -8,6 +8,7 @@
 | RAM | 32GB |
 | GPU | NVIDIA RTX 2070 FE |  
 | IDE | Microsoft VSCode |  
+
 这配置学Java会卡我直接吃
 ### 学习过程：
 ~~上课认真听~~
